@@ -1,6 +1,6 @@
-import java.util.*
+import java.lang.*;
 
-Class hello
+class hello
 {
 	public static void main(String args[])
 	{
